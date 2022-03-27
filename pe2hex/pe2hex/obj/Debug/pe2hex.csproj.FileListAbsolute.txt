@@ -1,0 +1,8 @@
+C:\Users\jhang\source\repos\pe2hex\pe2hex\bin\Debug\pe2hex.exe.config
+C:\Users\jhang\source\repos\pe2hex\pe2hex\bin\Debug\pe2hex.exe
+C:\Users\jhang\source\repos\pe2hex\pe2hex\bin\Debug\pe2hex.pdb
+C:\Users\jhang\source\repos\pe2hex\pe2hex\obj\Debug\pe2hex.csproj.AssemblyReference.cache
+C:\Users\jhang\source\repos\pe2hex\pe2hex\obj\Debug\pe2hex.csproj.SuggestedBindingRedirects.cache
+C:\Users\jhang\source\repos\pe2hex\pe2hex\obj\Debug\pe2hex.csproj.CoreCompileInputs.cache
+C:\Users\jhang\source\repos\pe2hex\pe2hex\obj\Debug\pe2hex.exe
+C:\Users\jhang\source\repos\pe2hex\pe2hex\obj\Debug\pe2hex.pdb
